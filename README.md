@@ -32,8 +32,8 @@ account, and keeps a Git-backed history of the books you already own.
 The iOS app is a thin Capacitor wrapper around the same PWA that runs
 in your browser.
 
-Landing: <https://aconsole.skullforge.net>
-Privacy: <https://aconsole.skullforge.net/privacy>
+Landing: <https://audiobook.skullforge.net>
+Privacy: <https://audiobook.skullforge.net/privacy>
 
 ## License
 
